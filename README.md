@@ -1,1 +1,1 @@
-just maing it, learning bash 
+just making it, learning bash 
